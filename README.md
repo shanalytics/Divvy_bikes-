@@ -1,0 +1,2 @@
+# Divvy_bikes-
+With a network of 692 stations spread around Chicago, Cyclistic has a fleet of 5,824 bicycles that are geotracked and secured. Customers who buy single-ride or full-day permits are referred to as "casual riders," while those who buy yearly memberships are referred to as "cyclistic members." It is important for the marketing analyst team to comprehend the motivations behind membership purchases made by casual riders as well as how digital media may change how they approach marketing.
